@@ -1,0 +1,12 @@
+plugins:
+  vscode:
+    - name: "chatgpt"
+      enabled: true
+    - name: "vscodeintellicode"
+      enabled: true
+  jetbrains:
+    - name: "copilot"
+      enabled: true
+  sublime:
+    - name: "rainbow-csv"
+      enabled: false
